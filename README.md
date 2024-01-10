@@ -8,5 +8,5 @@ I'm passionate about everything related to data. From analytics to machine learn
 - **Continuous Learning:** Keeping up-to-date with the latest in data tech and practices.
 
 ## Let's Connect! 🤝
-If you're interested in discussing data, collaborating on a project, or just want to say hi, feel free to reach out! You can connect with me on [LinkedIn](Your-LinkedIn-URL).
+If you're interested in discussing data, collaborating on a project, or just want to say hi, feel free to reach out! You can connect with me on [LinkedIn](https://www.linkedin.com/in/shubh-mody/).
 
