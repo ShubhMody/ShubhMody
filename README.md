@@ -1,35 +1,76 @@
-# Hi there 👋
- 
-## I'm Shubh and I build things that turn raw, messy data into a decision
+<div align="center">
 
-Most data work dies in a dashboard nobody opens. What keeps me here is the opposite moment... when a query result changes what a team does on Monday. That gap, between data existing and data being used, is the problem I keep coming back to.
+# Hi there 👋 I'm Shubh
+
+### I build things that turn raw, messy data into a decision
+
+</div>
+
+
+I'm a Data Analyst who builds BI and analytics solutions — pipelines, models, and dashboards.
+
+Most of what's here started because I was curious about something which I wanted to uncover. A trend, a behavior, a business solution.
+
 So this is where I build toward it: pipelines, models, and dashboards, mostly to answer questions I got curious about. Some are experiments, some solve real problems. All of them taught me something I couldn't have read.
 
-## How I think about a data problem
+---
 
-### Start at the decision, not the dataset. 
-The first question is never "what's in this data", it's "what would someone do differently if they knew?" Everything else works backward from there.
+## 🧭 How I think about a data problem
 
-### Structure before sophistication. 
-A clean star schema and an honest metric definition beat a clever model built on ambiguous data. Most analytics failures I've seen are modeling failures, not algorithm failures.
+> ### 🎯 Start at the decision, not the dataset
+> The first question is never *"what's in this data"* — it's *"what would someone do differently if they knew?"* Everything else works backward from there.
 
-### The finding isn't done until someone understands it. 
-A 98% accuracy means nothing to the person who has to act on it. Translating a result into a decision is part of the work, not an afterthought.
+> ### 🏗️ Structure before sophistication
+> A clean star schema and an honest metric definition beat a clever model built on ambiguous data. Most analytics failures I've seen are modeling failures, not algorithm failures.
 
-### Automate the boring part. 
-If I've run it manually twice, I'm building the pipeline.
+> ### 💬 The finding isn't done until someone understands it
+> A 98% accuracy means nothing to the person who has to act on it. Translating a result into a decision is part of the work, not an afterthought.
 
-## What I build with
+> ### ⚙️ Automate the boring part
+> If I've run it manually twice, I'm building the pipeline.
 
-### Analysis & Modeling:  
-·  Python (Pandas, NumPy, scikit-learn) · SQL · R · PySpark 
-### Visualization:  
-·  Power BI (DAX, Power Query) · Tableau · Excel 
-### Data Engineering:  
-·  Dimensional modeling (star schema) · ETL pipelines · BigQuery · Snowflake · Power Automate 
-### ML Methods:  
-· Regression · Clustering · Classification · Forecasting · Natural Language Processing
+---
 
-## Let's Connect! 🤝
-If you're interested in discussing data, collaborating on a project, or just want to say hi, feel free to reach out! You can connect with me on [LinkedIn](https://www.linkedin.com/in/shubh-mody/).
+## 🛠️ What I build with
 
+**Analysis & Modeling**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+**Visualization**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Data Engineering**
+
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-2F4F4F?style=for-the-badge)
+![Star Schema](https://img.shields.io/badge/Dimensional_Modeling-4B0082?style=for-the-badge)
+
+**ML Methods**
+
+`Regression` &nbsp;·&nbsp; `Clustering` &nbsp;·&nbsp; `Classification` &nbsp;·&nbsp; `Forecasting` &nbsp;·&nbsp; `Natural Language Processing`
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect!
+
+If you're interested in discussing data, collaborating on a project, or just want to say hi — feel free to reach out.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubh-mody/)
+
+*Always up for a conversation about a stubborn dataset.*
+
+</div>
