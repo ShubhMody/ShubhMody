@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Shubh
 
-### I build things that turn raw, messy data into a decision
+### I build things that turn raw, messy data into decisions
 
 </div>
 
@@ -54,6 +54,10 @@ Most of what's here started with plain curiosity, about a trend, a behavior, som
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL_Pipelines-2F4F4F?style=for-the-badge)
 ![Star Schema](https://img.shields.io/badge/Dimensional_Modeling-4B0082?style=for-the-badge)
+
+**Statistics & Experimentation**
+
+`Hypothesis Testing` &nbsp;·&nbsp; `T-tests` &nbsp;·&nbsp; `Chi-square Tests` &nbsp;·&nbsp; `A/B Testing` &nbsp;·&nbsp; `Confidence Intervals`
 
 **ML Methods**
 
