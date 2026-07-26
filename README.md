@@ -7,11 +7,9 @@
 </div>
 
 
-I'm a Data Analyst who builds BI and analytics solutions — pipelines, models, and dashboards.
+I'm a Business & Data Analyst, which mostly means I sit between the people asking questions and the data that answers them, figuring out what someone actually needs and turning it into analysis, models, and dashboards they can decide on.
 
-Most of what's here started because I was curious about something which I wanted to uncover. A trend, a behavior, a business solution.
-
-So this is where I build toward it: pipelines, models, and dashboards, mostly to answer questions I got curious about. Some are experiments, some solve real problems. All of them taught me something I couldn't have read.
+Most of what's here started with plain curiosity, about a trend, a behavior, some business problem worth poking at. Some of these projects are experiments, some solve real problems, and all of them taught me something I couldn't have just read about.
 
 ---
 
