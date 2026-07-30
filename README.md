@@ -7,7 +7,7 @@
 </div>
 
 
-I'm a Business & Data Analyst, which mostly means I sit between the people asking questions and the data that answers them, figuring out what someone actually needs and turning it into analysis, models, and dashboards they can decide on.
+I'm a Business Intelligence Analyst, which mostly means I sit between the people asking questions and the data that answers them, figuring out what someone actually needs and turning it into analysis, models, and dashboards they can decide on.
 
 Most of what's here started with plain curiosity, about a trend, a behavior, some business problem worth poking at. Some of these projects are experiments, some solve real problems, and all of them taught me something I couldn't have just read about.
 
